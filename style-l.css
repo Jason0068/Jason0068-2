@@ -154,7 +154,7 @@ nav li a:hover {
 #headerpost #lead {
     float: left;
     width: 300px;
-    color: #77FFEE;
+    color: #FFFFEE;
     margin-left: 30px;
 }
 
@@ -279,7 +279,7 @@ nav li a:hover {
 /* ### FOOTER ###*/
 
 footer {
-    background-color: #FF5511;
+    background-color: #000000;
     padding: 5px;
 }
 
