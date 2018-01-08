@@ -206,7 +206,7 @@ nav li a:hover {
 
 .post {
     float: left;
-    width: 350px;
+    width: 400px;
     margin-right: 30px;
     margin-bottom: 30px;
 }
@@ -227,7 +227,7 @@ nav li a:hover {
 
 
 .post img {
-    width: 300px;
+    width: 390px;
     height: auto;
     vertical-align: bottom;
     border: none;
